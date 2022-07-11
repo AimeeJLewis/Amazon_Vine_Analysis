@@ -13,3 +13,6 @@ Out of the 22 Vine reviews, 13 were 5 star, and out of the 26,987 non-Vine revie
 ### What percentage of Vine reviews were 5 stars?  What percentage of non-Vine reviews were 5 stars?
 The percentage of Vine reviews that were 5 stars was 59.1% and the percentage of non-Vine reviews that were 5 stars was 53.6%.
 <img width="902" alt="Screen Shot 2022-07-11 at 11 54 30 AM" src="https://user-images.githubusercontent.com/101950175/178337580-06c0d23e-5f40-4e8c-b80f-0a63167983b8.png">
+
+## Summary
+Overall with approximatley 60% of the paid Vine reviews at 5-stars, there could be the possibility for bias as these reviews could truly be based on the fact that they are paid to give a review vs. someone who profits nothing from writing a review.  However, when looking at the 54% of 5-star reviews that are coming from non-Vine reviews, makes it more likely that the paid Vine reviews are valid.  If the non-Vine review percentage was lower, than that would lead me to believe that more bias was truly happening.  
